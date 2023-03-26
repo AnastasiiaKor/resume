@@ -25,7 +25,7 @@ body {
 .about-position {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 23px;
   line-height: 17px;
   color: #000000;
   margin-bottom: 20px;
@@ -42,7 +42,7 @@ body {
 .about-description {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   color: #595959;
   width: 510px;
@@ -55,7 +55,7 @@ body {
 .title {
   font-style: normal;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 23px;
   line-height: 27px;
   color: #000000;
   margin-bottom: 25px;
@@ -69,7 +69,7 @@ body {
 .project-bracket {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   color: #121292;
 }
@@ -80,7 +80,7 @@ body {
 .project-text {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   color: #595959;
   width: 510px;
@@ -89,7 +89,7 @@ body {
 .project-link {
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 24px;
   color: #090932;
 }
@@ -152,7 +152,7 @@ body {
 .university-name {
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 20px;
   color: #000000;
   margin-bottom: 10px;
@@ -160,7 +160,7 @@ body {
 .specialization {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 17px;
   color: #121292;
   margin-bottom: 10px;
@@ -168,7 +168,7 @@ body {
 .education-period {
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   line-height: 15px;
   color: #a8a8a8;
 }
@@ -183,7 +183,7 @@ body {
   color: #ffffff;
   font-style: normal;
   font-weight: 700px;
-  font-size: 22px;
+  font-size: 23px;
   line-height: 27px;
   margin-bottom: 10px;
 }
@@ -204,7 +204,7 @@ body {
 .contact-link {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   color: #ffffff;
   opacity: 0.7;
@@ -220,7 +220,7 @@ body {
 .tech-skills-text {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   color: #ffffff;
 }
@@ -230,7 +230,7 @@ body {
   font-weight: 700;
   font-size: 14px;
   line-height: 24px;
-  color: #121292;
+  color: #ffffff;
 }
 
 /* soft skills */
@@ -241,16 +241,16 @@ body {
 .soft-skills-text {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   color: #ffffff;
 }
 .soft-skills-item {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
-  color: #121292;
+  color: #ffffff;
 }
 .languages {
   margin-top: 10px;
@@ -263,14 +263,14 @@ body {
 .language-line {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
-  color: #121292;
+  color: #ffffff;
 }
 .language {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   color: #ffffff;
 }
