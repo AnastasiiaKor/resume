@@ -201,7 +201,7 @@ body {
 /* .contacts-item {
   
 } */
-.contact-link {
+.contact-link, .location {
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
